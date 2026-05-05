@@ -1,0 +1,51 @@
+ticker,name,sector
+AAPL,Apple Inc.,Technology
+MSFT,Microsoft Corporation,Technology
+GOOGL,Alphabet Inc.,Technology
+META,Meta Platforms Inc.,Technology
+NVDA,NVIDIA Corporation,Semiconductors
+AMD,Advanced Micro Devices,Semiconductors
+INTC,Intel Corporation,Semiconductors
+AVGO,Broadcom Inc.,Semiconductors
+CRM,Salesforce Inc.,Technology
+ORCL,Oracle Corporation,Technology
+ADBE,Adobe Inc.,Technology
+CSCO,Cisco Systems,Technology
+AMZN,Amazon.com Inc.,Consumer Discretionary
+WMT,Walmart Inc.,Consumer Staples
+COST,Costco Wholesale,Consumer Staples
+HD,Home Depot,Consumer Discretionary
+LOW,Lowe's Companies,Consumer Discretionary
+TGT,Target Corporation,Consumer Discretionary
+JPM,JPMorgan Chase,Financials
+BAC,Bank of America,Financials
+WFC,Wells Fargo,Financials
+GS,Goldman Sachs,Financials
+MS,Morgan Stanley,Financials
+AXP,American Express,Financials
+V,Visa Inc.,Financials
+MA,Mastercard Inc.,Financials
+TSLA,Tesla Inc.,Consumer Discretionary
+F,Ford Motor Company,Consumer Discretionary
+GM,General Motors,Consumer Discretionary
+PFE,Pfizer Inc.,Health Care
+MRK,Merck & Co.,Health Care
+JNJ,Johnson & Johnson,Health Care
+ABBV,AbbVie Inc.,Health Care
+LLY,Eli Lilly and Company,Health Care
+UNH,UnitedHealth Group,Health Care
+XOM,Exxon Mobil,Energy
+CVX,Chevron Corporation,Energy
+COP,ConocoPhillips,Energy
+T,AT&T Inc.,Communication Services
+VZ,Verizon Communications,Communication Services
+TMUS,T-Mobile US,Communication Services
+NFLX,Netflix Inc.,Communication Services
+DIS,Walt Disney Company,Communication Services
+CAT,Caterpillar Inc.,Industrials
+BA,Boeing Company,Industrials
+GE,General Electric,Industrials
+HON,Honeywell International,Industrials
+KO,Coca-Cola Company,Consumer Staples
+PEP,PepsiCo Inc.,Consumer Staples
+PG,Procter & Gamble,Consumer Staples

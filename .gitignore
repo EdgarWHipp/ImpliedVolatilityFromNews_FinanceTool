@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+.env
+.env.local
+
+data/returns.parquet
+data/transcripts/
+data/corr_prior.npy
+data/cache/
+
+.DS_Store
+.idea/
+.vscode/
